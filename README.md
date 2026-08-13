@@ -1,5 +1,7 @@
 # Medical Insurance Charges Analysis
 
+![Medical Insurance Analysis Dashboard](medical_insurance_dashboard_preview.png)
+
 ## Project Overview
 
 This project analyzes a medical insurance dataset to explore how insurance charges vary across demographic, lifestyle, and health-related factors.
